@@ -1,0 +1,54 @@
+h1{
+    background-color: darkgray;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    position: fixed;
+    line-height: 100px;
+    margin: 0px;
+    padding: 0px;
+    left: 0px;
+    top: 0px;
+}
+
+footer{
+    background-color: darkgray;
+    height: 100px;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    line-height: 100px;
+}
+
+#sidebar{
+    background-color: slategray;
+    left: 0;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    height: 737px;
+    width: 450px;
+    position: fixed;
+    top: 100px;
+    line-height: 737px;
+}
+
+
+#mainContent{
+    color: white;
+    font-size: 30px;
+    background-color: lightgrey;
+    left: 450px;
+    height: 737px;
+    right: 0px;
+    position: fixed;
+    top: 100px;
+    text-align: center;
+    line-height: 737px;
+    
+}
